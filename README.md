@@ -74,8 +74,3 @@ The dataset includes the following fields:
 ## ✅ Conclusion
 The **Health Analytics Dashboard** helps analyze mental health data efficiently by integrating SQL, Excel, and Power BI.  
 It enables stakeholders to identify patterns, understand demographic behavior, and make data-driven health decisions.
-
----
-
-Indian Institute of Information Technology, SriCity, Chittoor  
-[GitHub Profile](https://github.com/sampath-iiits)
